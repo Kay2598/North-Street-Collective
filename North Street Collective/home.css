@@ -1,0 +1,11 @@
+*{text-align: center;
+ font-family: 'Montserrat', sans-serif;
+color: white;
+background-color: rgb(54, 54, 54);
+}
+body {background-color: rgb(54, 54, 54);}
+#container{
+    align-content: center;
+    background-color: white;
+    color: black;
+}
